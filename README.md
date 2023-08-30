@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Backend SDE which includes Core Java, Algorithms and cloud computing, and frontend too like flutter.
 - 👯 I’m looking to collaborate on projects related to backend SDE
 - 😄 I’m looking for help with collaboration, I did many great projects on my own, but now I wish to collaborate and would love to work in a collaborative environment.
-- 📫 I always replies to email sent on my email id "namanjain1568@gmail.com"
+- 📫 I always replies to email sent on my email id "namanjain1570@gmail.com"
 - ⚡ My LinkedIn profile - "https://www.linkedin.com/in/naman-a-jain/"
 <!-- - 💬 Ask me about ...
 
